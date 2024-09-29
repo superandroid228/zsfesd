@@ -1,0 +1,129 @@
+img {
+    width: 100%;
+}
+
+h2{
+    font-family: "Ubuntu";
+}
+
+p{
+    font-family: "Ubuntu";
+}
+
+.big-photo {
+    background-image: url(metrofon.jpg);
+    background-size: cover;
+    height: 820px;
+    color: rgb(203, 203, 203);
+    text-align: center;
+    align-items: center;
+    
+}
+.sssss{
+    background-color: #0404048a;
+}
+.big-photo p{
+    font-size: 1.5em;
+    font-family: rob;
+}
+nav {
+    background-color: rgb(22, 22, 22);
+    color: white;
+    font-family: "Roboto";
+}
+.nav-link{
+    color: #ffffff;
+}
+.sugeat {
+    background-image: url(suget.jpg);
+    height: 300px;
+    background-position: 70% 20%;
+    background-size: cover;
+    font-size: 100px;
+    color: white;
+    text-align: center;
+    align-items: center;
+    background-attachment: fixed;
+}
+
+.sug {
+    background-color: rgb(22, 22, 22);
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    padding: 40px;
+}
+
+.sugtext {
+    padding-top: 45px;
+}
+
+.photo1 {
+    padding-top: 40px;
+    padding-left: 40px;
+}
+
+.photo2 {
+    padding-top: 90px;
+    padding-right: 30px;
+}
+
+.photo3 {
+    padding-top: 140px;
+    padding-left: 30px;
+}
+
+.personag {
+    background-image: url(personeg.jpg);
+    height: 300px;
+    background-position: 70% 20%;
+    background-size: cover;
+    font-size: 100px;
+    color: white;
+    text-align: center;
+    align-items: center;
+    background-attachment: fixed;
+}
+
+.per {
+    background-color: rgb(22, 22, 22);
+    color: white;
+    font-size: 25px;
+    padding: 60px;
+}
+
+.frak {
+    background-image: url(kartamet.jpg);
+    height: 300px;
+    background-position: 70% 20%;
+    background-size: cover;
+    font-size: 100px;
+    color: white;
+    text-align: center;
+    align-items: center;
+    background-attachment: fixed;
+}
+
+.han {
+    height: 350px;
+    padding-left: 50px;
+}
+
+
+footer {
+    background-color: rgb(8, 8, 8);
+    color: white;
+    font-size: 29px;
+    padding: 50px;
+}
+
+.socio-linky{
+color: red;
+}
+
+.socio-linki{
+color: rgb(216, 100, 216);
+}
+
+.socio-linkd{
+color: rgb(255, 255, 255);
+}
